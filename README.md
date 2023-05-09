@@ -10,6 +10,12 @@ _I´m a young student with with a great interest for Technology and science
 - English / Spanish 🗣️
 - Music enthusiast 🎶
 - Reader 🤓
+
+
+---
+> Don’t let the noise of others’ opinions drown out your own inner voice.
+
+— Steve Jobs
 ___
 ```js
 const AlessandroTH22 = {
