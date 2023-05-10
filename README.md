@@ -1,4 +1,4 @@
-# Hello everyone! 👻
+# Hi everyone! 👻
 
 ### I'm studying computer science in the [Monterrey Institute of Technology and Higher Education](https://tec.mx/en)
 _I´m a young student with with a great interest for Technology and science
