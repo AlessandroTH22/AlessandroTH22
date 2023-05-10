@@ -19,7 +19,7 @@ _I´m a young student with with a great interest for Technology and science
 ___
 ```js
 const AlessandroTH22 = {
-  code: [Javascript, HTML, CSS, Python, C++, TypeScript, Swift],
+  code: [Javascript, HTML, Python, C++, TypeScript, Swift],
   tools: [Node.js, Matlab, SQL Server, Angular, React.js, xCode],
   interests: [Web_development, App_development, IA, CyberSecurity]
 }
