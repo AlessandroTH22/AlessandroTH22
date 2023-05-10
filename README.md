@@ -20,7 +20,7 @@ ___
 ```js
 const AlessandroTH22 = {
   code: [Javascript, HTML, Python, C++, TypeScript, Swift],
-  tools: [Node.js, Matlab, SQL Server, Angular, React.js, xCode],
+  tools: [Node.js, Matlab, SQL Server, Angular, React.js, xCode, FireBase],
   interests: [Web_development, App_development, IA, CyberSecurity]
 }
 ```
