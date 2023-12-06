@@ -10,6 +10,7 @@ _I´m a young student with with a great interest for Technology and science
 - English / Spanish 🗣️
 - Music enthusiast 🎶
 - Reader 🤓
+- CV: https://drive.google.com/file/d/1w5RiYPlwYJ8e3jf_rMIgXe6a0dUyZ3Jp/view?usp=sharing
 
 
 ---
